@@ -65,7 +65,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Aditya7111}/count.svg" /></p> </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Have+a+good+day!)](https://git.io/typing-svg)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
 
 <!---
 Aditya7111/Aditya7111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
